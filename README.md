@@ -1,6 +1,3 @@
-<b>KhulnaSoft – Backend Development Platform</b><br/>
-
-
 # KhulnaSoft Webhooks
 
 Package webhooks provides type definitions and documentation for the webhooks that the KhulnaSoft Platform sends.
