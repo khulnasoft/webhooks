@@ -1,6 +1,5 @@
 Library webhooks
 ================
-<img align="right" src="https://raw.githubusercontent.com/khulnasoft/webhooks/logo.png">![Project status](https://img.shields.io/badge/version-6.3.0-green.svg)
 [![Test](https://github.com/khulnasoft/webhooks/workflows/Test/badge.svg?branch=master)](https://github.com/khulnasoft/webhooks/actions)
 [![Coverage Status](https://coveralls.io/repos/khulnasoft/webhooks/badge.svg?branch=master&service=github)](https://coveralls.io/github/khulnasoft/webhooks?branch=master)
 [![Go Report Card](https://goreportcard.com/badge/khulnasoft/webhooks)](https://goreportcard.com/report/khulnasoft/webhooks)
